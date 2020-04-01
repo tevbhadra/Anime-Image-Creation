@@ -1,2 +1,2 @@
 # AnimeImageCreation
-Developed a model to generate anime images using Deep Convolutional GAN to draw images not correlated to existing dataset of images.
+Developed a model to generate images using Deep Convolutional GAN to draw images distinct from our dataset of anime images.
